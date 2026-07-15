@@ -69,10 +69,10 @@ The columns for each part list the conformance classes of the standard that the 
 |===
 | Product | Conformance Classes | OGC Product Database | Contact email
 
+| link:clients/edr4r.md[edr4r] (R)
+| `core`, `queries`, `edr-geojson`, `covjson`
 | TBD
-| TBD
-| TBD
-| TBD
+| konda [at] lincolninst.edu
 
 |===
 
